@@ -1,6 +1,6 @@
 // Mode hors ligne : garde une copie de l'appli dans le téléphone.
 // Pour publier une mise à jour, change le numéro de version ci-dessous.
-const CACHE = "heures-nisha-2026-11-13k";
+const CACHE = "heures-nisha-2026-11-13-barbie";
 const FILES = [
   "./",
   "./index.html",
